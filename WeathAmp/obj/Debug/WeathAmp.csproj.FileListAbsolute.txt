@@ -1,0 +1,16 @@
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\bin\Debug\WeathAmp.exe.config
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\bin\Debug\WeathAmp.exe
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\bin\Debug\WeathAmp.pdb
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\bin\Debug\Interop.WMPLib.dll
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.csproj.AssemblyReference.cache
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.csproj.SuggestedBindingRedirects.cache
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\Interop.WMPLib.dll
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.csproj.ResolveComReference.cache
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.Form1.resources
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.Properties.Resources.resources
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.csproj.GenerateResource.cache
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.csproj.CoreCompileInputs.cache
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.exe
+C:\Users\downw\Desktop\projects\WeathAmp\WeathAmp\obj\Debug\WeathAmp.pdb
